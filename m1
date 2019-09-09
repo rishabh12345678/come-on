@@ -1,0 +1,7 @@
+$ git status
+> # On branch your-branch
+> # Changes to be committed:
+> #   (use "git reset HEAD ..." to unstage)
+> #
+> #    renamed:    /old-folder/image.png -> /new-folder/image.png
+# Displays the changes staged for commit
